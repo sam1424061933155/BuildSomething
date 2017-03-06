@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{461AA48D-1A5E-F834-C5DF-BC4DC69A1C40}") = "InteractionEngineMobile", "Assembly-CSharp.csproj", "{37535098-CAC5-25EC-A2CD-CE91019767CC}"
+EndProject
+Project("{461AA48D-1A5E-F834-C5DF-BC4DC69A1C40}") = "InteractionEngineMobile", "Assembly-CSharp-Editor.csproj", "{13EA5AB6-43F6-A57D-BEEF-9D9680F458DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37535098-CAC5-25EC-A2CD-CE91019767CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37535098-CAC5-25EC-A2CD-CE91019767CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37535098-CAC5-25EC-A2CD-CE91019767CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37535098-CAC5-25EC-A2CD-CE91019767CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EA5AB6-43F6-A57D-BEEF-9D9680F458DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EA5AB6-43F6-A57D-BEEF-9D9680F458DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EA5AB6-43F6-A57D-BEEF-9D9680F458DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EA5AB6-43F6-A57D-BEEF-9D9680F458DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
